@@ -8,7 +8,7 @@ int main()
     int point01, point02, point03, point04, point05, point06, point07, point08, point09, point010;
     int total1, total2, total3;
 
-    printf("   Welcome to the Game \n\n");
+    printf("Welcome to the Game! \n\n");
 
     printf("> Press 7 to start the game\n");
     printf("> Press 0 to quit the game\n");
